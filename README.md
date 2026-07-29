@@ -17,7 +17,7 @@ Si deseas clonar y correr este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/testing-practice.git
+   git clone https://github.com/Tomas2439/testing-practice.git
    ```
 2. Navega a la carpeta del proyecto:
    ```bash
